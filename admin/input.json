@@ -1,0 +1,33 @@
+{ 
+    "DBS" :{
+    "stock": "DBS",
+    "orderqty" : 150,
+    "ordertype" : "limit",
+    "executeqty" : 0,
+    "price" : 100
+    },
+    
+    "SBI" :{
+        "stock": "SBI",
+        "orderqty" : 50,
+        "ordertype" : "market",
+        "executeqty" : 0,
+        "price" : 1000
+        },
+        
+    "HDFC" :{
+        "stock": "HDFC",
+        "orderqty" : 50,
+        "ordertype" : "market",
+        "executeqty" : 0,
+        "price" : 1100
+        },
+        
+    "ICICI" :{
+        "stock": "ICICI",
+        "orderqty" : 50,
+        "ordertype" : "limit",
+        "executeqty" : 0,
+        "price" : 100
+        }
+}
